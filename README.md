@@ -26,7 +26,8 @@ CampusConnect is a web-based platform designed to help students and college admi
 └── README.md
 
 ## 👥 Team Members
-├── Karan D (Team Leader)
-├── Jaiswin Kaant K P
-├── Kevin Matthew S
-├── Gowtham S
+
+* **Karan D** (Team Leader)
+* **Jaiswin Kaant K P**
+* **Kevin Matthew S**
+* **Gowtham S**
